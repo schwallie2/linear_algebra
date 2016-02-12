@@ -89,9 +89,9 @@ class Vector(object):
         """
         vector v1 is parallel to v2 if one is a scalar
         multiple of the other:
-        v is parellel to: 2v, .5v, 1v, -v, 0
+        v is parallel to: 2v, .5v, 1v, -v, 0
         If we can multiply one by a scalar to get the other
-        So v1 * 2 = v2, paralell!
+        So v1 * 2 = v2, parallel!
         :param v1:
         :param v2:
         :return:
